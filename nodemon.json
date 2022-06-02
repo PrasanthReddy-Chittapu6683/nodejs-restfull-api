@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "node-shop",
+    "PORT_NUM": 3000
+  }
+}

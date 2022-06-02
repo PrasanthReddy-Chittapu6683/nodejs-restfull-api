@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-restfull-api",
+  "version": "1.0.0",
+  "description": "A Node JS RESful API tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasanthReddy-Chittapu6683/nodejs-restfull-api.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Prasanth CV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrasanthReddy-Chittapu6683/nodejs-restfull-api/issues"
+  },
+  "homepage": "https://github.com/PrasanthReddy-Chittapu6683/nodejs-restfull-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16"
+  }
+}
